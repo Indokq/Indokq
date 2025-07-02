@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rifkyfadillah404&label=Profile%20views&color=00d4ff&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/rifkyfadillah404?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Indokq&label=Profile%20views&color=00d4ff&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Indokq?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
 ---
