@@ -67,20 +67,6 @@ const Arsyl = {
 </div>
 
 
-## 🏆 Featured Projects
-
-<div align="center">
-
-### 📱 Mobile Apps
-[![Sisfo-Sarpas](https://github-readme-stats.vercel.app/api/pin/?username=rifkyfadillah404&repo=sisfo-sarpas-be&theme=tokyonight)](https://github.com/rifkyfadillah404/sisfo-sarpas-be)
-[![GoodFood](https://github-readme-stats.vercel.app/api/pin/?username=rifkyfadillah404&repo=GoodFood&theme=tokyonight)](https://github.com/rifkyfadillah404/GoodFood)
-
-### 🌐 Web Applications
-[![QuickShop](https://github-readme-stats.vercel.app/api/pin/?username=rifkyfadillah404&repo=quick-shop&theme=tokyonight)](https://github.com/rifkyfadillah404/quick-shop)
-[![Monefy](https://github-readme-stats.vercel.app/api/pin/?username=rifkyfadillah404&repo=monefy&theme=tokyonight)](https://github.com/rifkyfadillah404/monefy)
-
-</div>
-
 ---
 
 ## 🎯 Current Goals
@@ -94,23 +80,15 @@ const Arsyl = {
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rifkyfadillah404&theme=tokyo-night&bg_color=1a1b27&color=00d4ff&line=ff00ff&point=00d4ff&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
-
 ---
 
 ## 📫 Let's Connect!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifky-fadillah-a53523371/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mhmdrfkyfdillah/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285780520587)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rifkyfadillah404@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lowkeyfwu/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285817592559)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arsylfauzan19@gmail.com)
 
 </div>
 
