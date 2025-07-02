@@ -14,7 +14,7 @@
 ## 🚀 About Me
 
 ```javascript
-const rifky = {
+const Arsyl = {
     pronouns: "He/Him",
     location: "Jakarta, Indonesia 🇮🇩",
     currentFocus: "Building amazing mobile and web applications",
@@ -66,20 +66,6 @@ const rifky = {
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rifkyfadillah404&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifkyfadillah404&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifkyfadillah404&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
 
 ## 🏆 Featured Projects
 
